@@ -40,9 +40,13 @@ This repository serves as both a personal knowledge base and a portfolio showcas
 ##Learning Objectives
 
 Understand AWS Cloud fundamentals
+
 Learn cloud architecture best practices
+
 Design scalable and highly available solutions
+
 Implement security using IAM
+
 Gain hands-on experience with AWS services
 
 # Security
