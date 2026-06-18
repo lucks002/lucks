@@ -109,69 +109,93 @@ CloudWatch Monitoring
 ### IAM
 
 bash
+
 aws iam list-users
+
 aws iam list-groups
+
 aws iam list-roles
 
 
 ### EC2
 
 bash
+
 aws ec2 describe-instances
+
 aws ec2 describe-security-groups
+
 aws ec2 start-instances --instance-ids <instance-id>
+
 aws ec2 stop-instances --instance-ids <instance-id>
 
 
 ### S3
 
 bash
+
 aws s3 ls
+
 aws s3 mb s3://my-bucket
+
 aws s3 cp file.txt s3://my-bucket
+
 aws s3 sync . s3://my-bucket
 
 
 ### VPC
 
 bash
+
 aws ec2 describe-vpcs
+
 aws ec2 describe-subnets
+
 aws ec2 describe-route-tables
 
 
 ### RDS
 
 bash
+
 aws rds describe-db-instances
+
 aws rds describe-db-snapshots
 
 
 ### Route 53
 
 bash
+
 aws route53 list-hosted-zones
+
 aws route53 list-resource-record-sets --hosted-zone-id <zone-id>
 
 
 ### ELB & Auto Scaling
 
 bash
+
 aws elbv2 describe-load-balancers
+
 aws autoscaling describe-auto-scaling-groups
 
 
 ### Lambda
 
 bash
+
 aws lambda list-functions
+
 aws lambda get-function --function-name <function-name>
 
 
 ### CloudWatch
 
 bash
+
 aws cloudwatch describe-alarms
+
 aws logs describe-log-groups
 
 
