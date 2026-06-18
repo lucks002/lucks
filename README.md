@@ -1,5 +1,5 @@
 # lucks
-# AWS cloud solution architect Learning Journey
+# AWS Cloud Solution Architect Learning Journey
 
 ## Introduction
 
