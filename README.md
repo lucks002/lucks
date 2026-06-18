@@ -202,10 +202,15 @@ aws logs describe-log-groups
 ## Skills Gained
 
 Cloud Computing Fundamentals
+
 AWS Infrastructure Management
+
 Networking Concepts
+
 Security Best Practices
+
 High Availability & Scalability
+
 Monitoring & Troubleshooting
 
 
