@@ -85,14 +85,23 @@ CloudWatch
 ## Hands-On Labs
 
 Launching EC2 Instances
+
 Creating S3 Buckets
+
 Static Website Hosting using S3
+
 Creating Custom VPC
+
 Configuring Route 53
+
 Creating RDS Databases
+
 Setting up Load Balancers
+
 Auto Scaling Configuration
+
 Lambda Function Deployment
+
 CloudWatch Monitoring
 
 ## AWS CLI Commands
